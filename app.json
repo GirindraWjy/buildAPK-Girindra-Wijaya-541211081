@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "xiirpl3-541211081-girindra-wijaya-login",
+    "slug": "snack-4dcf6227-e2e4-4659-830b-25a28b74e848",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d5037095-ac18-4fb1-bd39-9b38cab26eb0"
+      }
+    }
+  }
+}
